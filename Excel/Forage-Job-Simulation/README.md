@@ -16,5 +16,5 @@ Key Insights
 
 
 Files
- dashboard and sheet screenshots
+ dashboard and sheet
  `vba/`: macro code
