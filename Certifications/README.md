@@ -1,1 +1,1 @@
-This folder contains my professional certifications, course completion certificates, and learning achievements in Data Analytics, and Generative AI.
+Professional certifications and job simulation certificates earned during my Data Analytics journey.
