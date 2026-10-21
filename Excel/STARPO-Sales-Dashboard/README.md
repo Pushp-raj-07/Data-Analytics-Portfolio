@@ -2,7 +2,7 @@
 
 An Excel dashboard that shows where a European outdoor-gear brand makes its revenue and profit, by country, channel, region and month.
 
-> **Note:** STARPO is a fictional company and the data is dummy data. I built this by following the Satish Dhawale YouTube tutorial. I then checked the formulas and wrote up the findings myself. [ADD VIDEO LINK]
+> **Note:** STARPO is a fictional company and the data is dummy data. I built this by following the Satish Dhawale YouTube tutorial. I then checked the formulas and wrote up the findings myself. [[VIDEO LINK](https://youtu.be/9ZQGrKK_PTI?si=fq15mr5GVs4qgdx4)]
 
 ![Dashboard](Dashboard_image.png)
 
@@ -59,14 +59,11 @@ Excel: PivotTables, Slicers, PivotCharts, Map Chart, formulas
 - Online Store is the biggest channel with **$260K (about 40%)**. Corporate is second with $180K.
 - Western Europe ($198K) and Central Europe ($191K) are close. Southern Europe is the lowest at $125K.
 - Revenue peaked in June ($70K) and was lowest in February ($36K). November was a second peak ($66K).
-- [ADD HERE: best and worst product category]
-- [ADD HERE: how discount affects margin, after checking the data]
 
 ## Recommendations
 
 - Plan stock and marketing before the June and November peaks.
 - Look for ways to lift sales in February.
-- [ADD HERE: discount advice for Corporate orders, only if the data confirms it]
 
 ## Project Structure
 
@@ -76,12 +73,6 @@ STARPO-Sales-Dashboard/
 ├── STARPO_Sales_Dashboard.xlsx
 └── Dashboard_image.png
 ```
-
-## How to Open
-
-1. Download `STARPO_Sales_Dashboard.xlsx`.
-2. Open it in Excel 2019 or Microsoft 365 (the Map Chart needs this).
-3. Use the slicers on the dashboard sheet. The PivotTables are on the "All Pivot" sheet.
 
 ## Limitations & Future Scope
 
